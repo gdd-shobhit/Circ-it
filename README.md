@@ -9,3 +9,4 @@ Make photo sharing easy and viable. When people ask for photos all the time, it 
 
 ### Contributers
 Aman Garg
+Aditya Khanna
